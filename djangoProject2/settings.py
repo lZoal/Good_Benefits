@@ -37,7 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'Good_Benefits.apps.GoodBenefitsConfig',
+    'Good_Benefits',
+
 ]
 
 MIDDLEWARE = [
