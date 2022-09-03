@@ -1,6 +1,6 @@
 from django.shortcuts import render
 from rest_framework.views import APIView
-from content.models import Feed
+from Good_Benefits.models import Feed
 
 
 class Main(APIView):
